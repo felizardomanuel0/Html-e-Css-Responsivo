@@ -1,0 +1,9 @@
+button, h1{
+    text-align: center;
+    margin: auto;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
